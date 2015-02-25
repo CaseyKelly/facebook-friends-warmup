@@ -6,3 +6,4 @@ Write code that will return an array of strings in the format "First Last (statu
 
 See data from `data/friends.rb` for an example of what the input should look like.
 # facebook-friends-warmup
+# facebook-friends-warmup
